@@ -1,0 +1,38 @@
+body {
+    background-color: #e6f7ff; /* light blue */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="number"], select, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
